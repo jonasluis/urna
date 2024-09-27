@@ -1,12 +1,13 @@
 // Configurações do Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyDXQyVKuvuLz48YUfozyxi8Fq-k5RE3jqY",
-    authDomain: "urnainpar.firebaseapp.com",
-    projectId: "urnainpar",
-    storageBucket: "urnainpar.appspot.com",
-    messagingSenderId: "527956827942",
-    appId: "1:527956827942:web:576b3eaa852a6995b3abe7"
-  };
+  apiKey: "AIzaSyCf-TZ9fxBd4mpa-YFBZQoPMtvHhfyTK8Y",
+  authDomain: "urna-asvi.firebaseapp.com",
+  projectId: "urna-asvi",
+  storageBucket: "urna-asvi.appspot.com",
+  messagingSenderId: "299257819199",
+  appId: "1:299257819199:web:d1955a7b5492d30336c88a",
+  measurementId: "G-YQMCV6T86K"
+};
 
 // Inicializa o Firebase
 firebase.initializeApp(firebaseConfig);
